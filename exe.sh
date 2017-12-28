@@ -28,5 +28,12 @@ var4="Hi Russia '0_o' !!!"
 echo $var4
 var5="@Hi Novosibirsk #\" ##\" ###\'####\' \\ "
 echo $var5
-
+#
+#	True Vars
+#
+var42="World"
+var422="!"
+var423="Hello"
+varr=$var423" "$var42" "$var422
+echo $varr
 
